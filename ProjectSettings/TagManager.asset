@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - NPC
+  - Ground
+  - Player_bullet
+  - Enemy_bullet
+  - Grenade
+  - Bomb
+  - End
+  - Enemy_grenade
+  - End1
+  - FxTemporaire
+  - Block
+  - Barrel
+  - Gift
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Bullet
+  - Grenade
+  - Gift
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Other
+    uniqueID: 232916161
+    locked: 0
+  - name: Actors
+    uniqueID: 2515264659
+    locked: 0
+  - name: TOP
+    uniqueID: 3062457391
+    locked: 0
